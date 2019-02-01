@@ -1,5 +1,5 @@
 {
-"lol":"https://m.1108680.com",
+"lol":"",
 "objectId":"1",
 "isShowTabbar":1,
 }
