@@ -1,5 +1,5 @@
 {
-"lol":"https://www.baidu.com/",
+"lol":"",
 "objectId":"1",
 "isShowTabbar":1,
 }
